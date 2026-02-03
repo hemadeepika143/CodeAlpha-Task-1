@@ -1,25 +1,21 @@
 Question:
 
-Develop a Java program to input and manage student grades, calculate average, highest, and lowest scores, and display a summary report for all students using appropriate data structures
+        Develop a Java program to input and manage student grades, calculate average, highest, and lowest scores, and display a summary report for all students using appropriate data structures
 
 Reference:
 
-Java Official Documentation – Oracle
+        Java Official Documentation – Oracle
 
-CodeAlpha Internship Task Guidelines
+        CodeAlpha Internship Task Guidelines
 
-Core Java concepts (OOP, Arrays, ArrayList, Loops, Scanner)
+        Core Java concepts (OOP, Arrays, ArrayList, Loops, Scanner)
 
 Tools :
 
-Programming Language: Java
+        Programming Language: Java
 
-IDE / Editor: VS Code / Eclipse / IntelliJ IDEA
+        IDE / Editor: VS Code / Eclipse / IntelliJ IDEA
 
-JDK Version: JDK 8 or above
+        JDK Version: JDK 8 or above
 
-Data Structure: ArrayList
-
-Platform: Console-based application
-
-Version Control: Git & GitHub
+        Data Structure: ArrayList
