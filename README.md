@@ -41,7 +41,6 @@ public class StudentGradeTracker {
             if (s.grade > highest) highest = s.grade;
             if (s.grade < lowest) lowest = s.grade;
         }
-
         double average = (double) total / students.size();
 
         System.out.println("\n===== Student Grade Report =====");
